@@ -4,4 +4,6 @@ It has Camera, Music Player, Paint & Pong Game but in future updates there also 
 
 This is the source code of Aditya OS.
 
-Download and Play Aditya OS on GameJolt: https://gamejolt.com/games/aditya_os/705038
+Aditya OS is available on:
+GameJolt: https://masteredytaditya.gamejolt.io/aditya_os
+Itch: https://mastered-yt-aditya.itch.io/aditya-os
