@@ -5,4 +5,3 @@ It has Camera, Music Player, Paint & Pong Game but in future updates there also 
 This is the source code of Aditya OS.
 
 Download and Play Aditya OS on GameJolt: https://gamejolt.com/games/aditya_os/705038
-Install Scratch 3.0: https://scratch.mit.edu/download
