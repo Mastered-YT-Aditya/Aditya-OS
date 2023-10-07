@@ -7,3 +7,8 @@ This is the source code of Aditya OS.
 Aditya OS is available on:
 GameJolt: https://masteredytaditya.gamejolt.io/aditya_os
 Itch: https://mastered-yt-aditya.itch.io/aditya-os
+</span><br></p>
+<p><a href="https://mastered-yt-aditya.itch.io/aditya-os" target="_blank"><img src="https://img.itch.zone/aW1nLzEzNjM1NTcwLnBuZw==/original/MhocU0.png" alt="Aditya OS on GameJolt" title="Aditya OS on GameJolt"></a><br></p>
+<p><span style="color: inherit; font-family: inherit; font-size: inherit;"><a href="https://mastered-yt-aditya.itch.io/aditya-os" target="_blank"><img src="https://img.itch.zone/aW1nLzEzNjQwMjI2LnBuZw==/original/12EVYs.png" alt="Aditya OS on Itch" title="Aditya OS on Itch"></a><br></span></p>
+<p><span style="color: inherit; font-family: inherit; font-size: inherit;"><a href="https://github.com/Mastered-YT-Aditya/Aditya-OS" target="_blank"><img src="https://img.itch.zone/aW1nLzEzNjQwMjI3LnBuZw==/original/FJbYhT.png" alt="Aditya OS Source Code" title="Aditya OS Source Code"></a><br></span></p>
+<p><span style="color: inherit; font-family: inherit; font-size: inherit;">
