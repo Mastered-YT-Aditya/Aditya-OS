@@ -2,8 +2,6 @@ Aditya OS is a game which have apps and games like an OS!
 This program is made with Scratch and Made by Mastered YT Aditya (me).
 It has Camera, Music Player, Paint & Pong Game but in future updates there also could be new programs.
 
-Here are the Source Code of Aditya OS.
-
 Aditya OS is available on:
 </span><br></p>
 <p><a href="https://masteredytaditya.gamejolt.io/aditya_os" target="_blank"><img src="https://img.itch.zone/aW1nLzEzNjM1NTcwLnBuZw==/original/MhocU0.png" alt="Aditya OS on GameJolt" title="Aditya OS on GameJolt"></a><br></p>
