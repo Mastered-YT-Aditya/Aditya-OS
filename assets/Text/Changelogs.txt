@@ -8,6 +8,8 @@
 
 
 
+2.1.0
+Fixed the Pong Game Score system.
 2.0.0: 
 Changelogs has been moved to Changelogs.txt and added Download Button to download the .txt file and read the changelogs.
 Added HEX Color Picker for Paint.
