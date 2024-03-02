@@ -4,6 +4,6 @@ It has Camera, AdiTube, AT Music, Paint & Pong Game but in future updates there 
 
 Aditya OS is available on:
 
-<p><a href="https://masteredytaditya.gamejolt.io/aditya_os" target="_blank"><img src="/README/gj-badge.svg" alt="Aditya OS on GameJolt" title="Aditya OS on GameJolt"></a><br></p>
-<p><span style="color: inherit; font-family: inherit; font-size: inherit;"><a href="https://mastered-yt-aditya.itch.io/aditya-os" target="_blank"><img src="https://img.itch.zone/aW1nLzEzNjQwMjI2LnBuZw==/original/12EVYs.png" alt="Aditya OS on Itch" title="Aditya OS on Itch"></a><br></span></p>
-<p><span style="color: inherit; font-family: inherit; font-size: inherit;"><a href="https://github.com/Mastered-YT-Aditya/Aditya-OS" target="_blank"><img src="https://img.itch.zone/aW1nLzEzODM3NjEwLnBuZw==/original/vtQxDm.png" alt="Aditya OS Source Code" title="Aditya OS Source Code"></a><br></span></p>
+<a href="https://gamejolt.com/games/aditya_os/705038?utm_source=share&utm_medium=web" target="GameJolt"><input type="image" src="/README/gj-badge.svg" alt="GameJolt" width="250"></a><br>
+<a href="https://mastered-yt-aditya.itch.io/aditya-os" target="Itch.io"><input type="image" src="/README/badge-color.svg" alt="Itch.io" width="250"></a><br>
+<a href="https://github.com/Mastered-YT-Aditya/Aditya-OS" target="GitHub (Source Code)"><input type="image" src="README/GitHub Button.png" alt="GitHub" width="250"></a>
