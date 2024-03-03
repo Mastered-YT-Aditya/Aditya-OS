@@ -7,7 +7,13 @@
 
 
 
-
+HOTFIX [2.1.0]:
+Fixed Pong Game Scoreboard for GameJolt.
+Fixed the Music Player.
+Now all websites will work opened via Aditya OS.
+From now you can download Changelogs.
+"Stop Video" button added to AdiTube.
+AdiTube now can play video itself. It will not embed YouTube videos.
 2.0.0: 
 Changelogs has been moved to Changelogs.txt and added Download Button to download the .txt file and read the changelogs.
 Added HEX Color Picker for Paint.
