@@ -4,6 +4,6 @@ It has Camera, AdiTube, AT Music, Paint & Pong Game but in future updates there 
 
 Aditya OS is available on:
 
-<a href="https://gamejolt.com/games/aditya_os/705038?utm_source=share&utm_medium=web" target="GameJolt"><input type="image" src="/README/gj-badge.svg" alt="GameJolt" width="250"></a><br>
+<a href="https://gamejolt.com/games/aditya_os/705038?utm_source=share&utm_medium=web" target="GameJolt"><img src="/README/gj-badge.svg" alt="GameJolt" width="250"></a><br>
 <a href="https://mastered-yt-aditya.itch.io/aditya-os" target="Itch.io"><input type="image" src="/README/badge-color.svg" alt="Itch.io" width="250"></a><br>
 <a href="https://github.com/Mastered-YT-Aditya/Aditya-OS" target="GitHub (Source Code)"><input type="image" src="README/GitHub Button.png" alt="GitHub" width="250"></a>
