@@ -8,4 +8,5 @@ Aditya OS is available on:
 <a href="https://mastered-yt-aditya.itch.io/aditya-os" target="Itch.io"><img src="/README/badge-color.svg" alt="Itch.io" width="250"></a><br>
 <a href="https://github.com/Mastered-YT-Aditya/Aditya-OS" target="GitHub (Source Code)"><img src="/README/GitHub Button.png" alt="GitHub" width="250"></a><br>
 <a href="https://mastered-yt-aditya.github.io/Aditya-OS" target="HTML Web"><img src="/README/web.png" alt="html" width="250"></a>
-<!-- Thanks to the Badge/Button creators>
+<!--
+HTML5, itch.io, GameJolt & GitHub logo owned by their rightful corporations. Credits goes to those users who've created HTML5 Button & GitHub Button. GitHub Button by me. -->
