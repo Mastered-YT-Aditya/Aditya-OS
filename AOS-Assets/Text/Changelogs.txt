@@ -7,6 +7,8 @@
 
 
 
+A (Alpha) [2.2.0]:
+Updated About application.
 HOTFIX [2.1.0]:
 Fixed Pong Game Scoreboard for GameJolt.
 Fixed the Music Player.
